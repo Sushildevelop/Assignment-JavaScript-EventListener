@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(58, 94, 82);
+}
+
+#display {
+    color: red;
+}
+
+#input-box {
+    font-size: 25px;
+}
